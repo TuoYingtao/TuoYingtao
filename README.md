@@ -1,4 +1,4 @@
-[](assets/github-header-image.png)
+![](./assets/github-header-image.png)
 ### Hi there 👋
 
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
