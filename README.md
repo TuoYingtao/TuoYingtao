@@ -157,11 +157,7 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#296](https://github.com/TuoYingtao/readme-typing-svg/pull/296) in [TuoYingtao/readme-typing-svg](https://github.com/TuoYingtao/readme-typing-svg)
-2. 🗣 Commented on [#1108](https://github.com/TuoYingtao/custom-icon-badges/issues/1108) in [TuoYingtao/custom-icon-badges](https://github.com/TuoYingtao/custom-icon-badges)
-3. 💪 Opened PR [#1108](https://github.com/TuoYingtao/custom-icon-badges/pull/1108) in [TuoYingtao/custom-icon-badges](https://github.com/TuoYingtao/custom-icon-badges)
-4. 💪 Opened PR [#7350](https://github.com/refined-github/refined-github/pull/7350) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-5. 🗣 Commented on [#295](https://github.com/TuoYingtao/readme-typing-svg/issues/295) in [TuoYingtao/readme-typing-svg](https://github.com/TuoYingtao/readme-typing-svg)
+  
 <!--END_SECTION:activity-->
 
 <h3>🌟 Sponsors</h3>
